@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=randomSituations
+comment1.params=
+comment1.target=randomSituations()
+comment2.params=rand
+comment2.target=void\ setRand(int)
+comment3.params=object
+comment3.target=java.lang.String\ randomSit(java.lang.String)
+numComments=4

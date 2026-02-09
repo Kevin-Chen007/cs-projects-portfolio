@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=store
+comment1.params=
+comment1.target=store()
+comment2.params=money\ priceMultiplier
+comment2.target=int\ storeRun(int,\ int)
+comment3.params=
+comment3.target=int\ getFood()
+comment4.params=
+comment4.target=int\ getRobo()
+comment5.params=
+comment5.target=int\ getClothing()
+numComments=6

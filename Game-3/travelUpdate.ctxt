@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=travelUpdate
+comment1.params=start\ food
+comment1.target=travelUpdate(int,\ int)
+comment2.params=
+comment2.target=void\ updateInfo()
+comment3.params=
+comment3.target=int\ getDistance()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
